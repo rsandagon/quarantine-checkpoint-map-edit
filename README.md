@@ -1,5 +1,8 @@
 # PH Quarantine Checkpont Map
 
+![alt text](map1.jpg "Philippine Quarantine Map")
+![alt text](map2.jpg "Covid19 Q&A")
+
 ## Getting Started
 
 Choose one of the following options to get started:
