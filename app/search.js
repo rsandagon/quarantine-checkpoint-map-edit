@@ -13,8 +13,8 @@ let createCard = (content) => { return `<div class=" w-1/2 mx-auto lg:flex pb-5 
 
 search_el.addEventListener("submit", async function (evt) {
     evt.preventDefault();
-    // const api_url = "/api/chat";
-    const api_url = "http://159.65.136.34:8000/chat";
+    const api_url = "/api/chat";
+    //const api_url = "https://manilacovid.info:8000/chat";
     const headers = {
         "Content-Type": "application/json"
     }
